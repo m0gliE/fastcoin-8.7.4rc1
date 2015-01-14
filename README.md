@@ -1,6 +1,14 @@
 ## Fastcoin
+Copyright (c) 2009-2015 Bitcoin Developers
 
-Fastcoin - a fork of Litecoin version with fast blocks and transactions. Like Litecoin it uses scrypt as a proof of work scheme.
+Copyright (c) 2011-2015 Fastcoin Developers
+
+Fastcoin is a free open source peer-to-peer electronic cash system that is
+completely decentralized, without the need for a central server or trusted
+parties.  Users hold the crypto keys to their own money and transact directly
+with each other, with the help of a P2P network to check for double-spending.
+
+* https://sourceforge.net/projects/fastcoin
 
 	- Total coins will be 165,888,000.
 	- 12 seconds block target
